@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cybytez
 - 👀 I’m interested in anything data
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on Data Analysis and Data science projects
 - 📫 How to reach me: WhatsApp - 08160928031, Email: cybytez@outlook.com/temidayofc@gmail.com
 
